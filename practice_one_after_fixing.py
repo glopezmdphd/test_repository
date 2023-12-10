@@ -1,4 +1,4 @@
-
+#find three different ways to print the number 0 thru 10 using Python.
 for i in range(11):
     print(i)
 
